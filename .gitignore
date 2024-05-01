@@ -1,0 +1,9 @@
+*
+!*.gitignore
+!README.md
+!*/
+!*.cs
+*.AssemblyAttributes.cs
+*.GlobalUsings.g.cs
+*.AssemblyInfo.cs
+
